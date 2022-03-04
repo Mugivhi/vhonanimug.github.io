@@ -1,0 +1,207 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+#biggest{
+    background-color: url();
+}
+#topnav1{
+    background-image: url(./imgs/image-header.jpg);
+    background-size: 100%;
+    image-rendering: auto;
+    height: 45rem;
+    margin-bottom: 0.19rem;
+
+}
+#logotop{
+    position: absolute;
+    bottom: 35rem;
+    left: 1.8rem;
+    
+}
+#links{
+    position:absolute;
+    bottom: 35rem;
+    left: 60rem;
+}
+#we{
+    position: absolute;
+    bottom: 27rem;
+    left: 28rem;
+}
+#arrow{
+    position: absolute;
+    bottom: 15rem;
+    left: 40rem;
+}
+
+
+body{
+   background-color: whitesmoke;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#mainTable{
+
+    width: 100%;
+    text-align: center;
+    margin-top: -0.2rem;
+}
+#secondTable{
+    width: 100%;
+    text-align: center;
+    margin-top: -2rem;
+}
+#downDiv{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 10rem;
+    margin-top: -0.7rem;
+}
+#image-photography{
+    height: 37rem;
+  background-image: url(./imgs/image-photography.jpg);
+}
+#image-graphic-design{
+    height: 37rem;
+    background-image: url(./imgs/image-graphic-design.jpg);
+}
+#content{
+    position: absolute;
+    bottom: -106rem;
+    left: 10rem;
+}
+#content1{
+    position: absolute;
+    bottom: -106rem;
+    left: 50rem;
+}
+a{
+    color: aliceblue;
+    margin-right: 16px;
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover{
+    background-color: bisque;
+    background: wheat round;
+    border-radius: 60%;
+}
+h1{
+    color: grey;
+}
+#we{
+    color: whitesmoke;
+    align-self:left;
+}
+#header{
+    margin-top: 200rem;
+    align-items: center;
+}
+#subtittle{
+    color: grey;
+}
+#subtittle1{
+    color: grey;
+}
+#subtittle2{
+    color: grey;
+}
+
+#testimon{
+    text-align: center;
+    background-color: whitesmoke;
+    margin-top: -1.65rem;
+}
+#derpc{
+    float: left;
+}
+#em{
+    width: 33.3%;
+    text-align: center;
+}
+#tom{
+    width: 33.3%;
+    text-align: center;
+}
+#jen{
+    width: 33.3%;
+    text-align: center;
+}
+#footerTable{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    border: #4B99AD;
+    background-color: skyblue;
+}
+#logo1{
+
+}
+#logo2{
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#emily{
+    border-radius: 50%;
+}
+#thomas{
+    border-radius: 50%;
+}
+#jennie{
+    border-radius: 50%;
+}
+#milk{
+   margin-right: 30rem;
+}
+#pikitures{
+margin-top: -0.3rem;
+margin-bottom: -0.4rem;
+border-collapse: collapse;
+}
+#stuff{
+
+    margin-top: 6rem;
+    margin-bottom: 0rem;
+}
+#divWords{
+    text-align: center;
+  
+}
+#divWords1{
+    text-align: center;
+}
+#big1{
+    color: black;
+}
+#biggy{
+    color: black;
+}
+#first{
+    background-image:url(./imgs/image-graphic-design.jpg);
+}
+#second{
+    background-image: url(./imgs/image-photography.jpg);
+}
+#lrnbtn1{
+    background-color: pink;
+    border: none;
+    box-decoration-break: clone;
+    cursor: pointer;
+    box-shadow:
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.053),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.077),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.095),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.113),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.137),
+  100px 100px 80px rgba(0, 0, 0, 0.19);
+}
+#lrnbtn{
+    background-color: yellow;
+    border: none;
+    cursor: pointer;
+    box-shadow:
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.053),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.077),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.095),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.113),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.137),
+  100px 100px 80px rgba(0, 0, 0, 0.19);
+}
